@@ -7,7 +7,7 @@ name: Backend CI - Test, Build and Push Images to ACR
 on:
   # Manual trigger
   workflow_dispatch:
-# testing comment
+# testing triggerr
   # Automatically on pushes to main branch
   push:
     branches:
